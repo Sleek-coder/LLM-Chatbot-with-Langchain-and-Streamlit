@@ -31,7 +31,8 @@ OpenAI API key (if using OpenAI models)
 
 Clone the Repository
 
-git clone https://github.com/yourusername/llm-chatbot.git
+git clone [https://github.com/yourusername/llm-chatbot.git](https://github.com/Sleek-coder/LLM-Chatbot-with-Langchain-and-Streamlit)
+
 cd llm-chatbot
 
 Install Dependencies
