@@ -24,17 +24,14 @@ This will launch the chatbot interface in your default web browser.
 
 Project Structure
 
-llm-chatbot/
+LLM-Chatbot-with-Langchain-and-Streamlit/
 │── app.py                # Streamlit application
 │── README.md             # Project documentation
 
 Usage
-
 Start the application using streamlit run app.py.
 
 Enter a message in the chatbox to start a conversation.
-
-
 Contributing
 
 
